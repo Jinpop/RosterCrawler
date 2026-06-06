@@ -1,0 +1,18 @@
+# 환경변수 (계정 정보!) — 절대 커밋 금지
+.env
+
+# 수집 결과물
+*.xlsx
+KAU_MASTER_DATA.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
